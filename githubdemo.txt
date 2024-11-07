@@ -1,1 +1,4 @@
-this is my first demo git file uploaded by drag and drop from my newly created folder
+this is my first demo git file 
+Uploaded by drag and drop from my newly created folder
+Used git bash application to access my repositary
+Thank you
